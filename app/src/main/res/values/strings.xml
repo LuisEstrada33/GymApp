@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">myGym2</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Erick García</string>
+    <string name="nav_header_subtitle">erick.garcia17@tectijuana.edu.mx</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Proteína diaria</string>
+    <string name="action_carbo">Carbohidratos diarios</string>
+    <string name="action_creatina">Creatina semanal</string>
+    <string name="action_gasto">Calorias totales</string>
+    <string name="action_cal">Gasto diario energia</string>
+    <string name="action_imc">IMC</string>
+    <string name="action_agua">Agua diaria</string>
+
+
+    <string name="menu_home">Inicio</string>
+
+    <string name="menu_gallery">Pierna</string>
+    <string name="menu_gallery_1">Barbell Squat</string>
+    <string name="menu_gallery_2">One Leg Barbell Squat</string>
+    <string name="menu_gallery_3">Barbell Lunge</string>
+    <string name="menu_gallery_4">Leg Press</string>
+    <string name="menu_gallery_5">Dumbbell Squat</string>
+
+    <string name="gallery_pierna1">Squat_pierna1</string>
+    <string name="gallery_pierna2">Squat_pierna2</string>
+
+    <string name="menu_slideshow">Pecho</string>
+    <string name="menu_slideshow1">Bench Press</string>
+    <string name="menu_slideshow2">Incline Bench Press</string>
+    <string name="menu_slideshow3">Decline Bench Press</string>
+    <string name="menu_slideshow4">Dumbbell Flys</string>
+    <string name="menu_slideshow5">Standing Cable Chest Press</string>
+
+
+    <string name="menu_tools">Espalda</string>
+    <string name="menu_tools1">Chin-Ups</string>
+    <string name="menu_tools2">Lat Pulldowns</string>
+    <string name="menu_tools3">Bent Over Barbell Row</string>
+    <string name="menu_tools4">Seated Cable Rows</string>
+    <string name="menu_tools5">Upright Cable Rows</string>
+
+
+    <string name="menu_share">Hombro</string>
+    <string name="menu_share1">Barbell Shoulder Press</string>
+    <string name="menu_share2">Front Dumbbell Raise</string>
+    <string name="menu_share3">Arnold Dumbbell Press</string>
+    <string name="menu_share4">Low-Pulley Side Lateral</string>
+    <string name="menu_share5">Single Arm Shoulder Press</string>
+
+
+    <string name="menu_send">Biceps</string>
+    <string name="menu_send1">Barbell Curl</string>
+    <string name="menu_send2">Concentration Curl</string>
+    <string name="menu_send3">Seated Bicep Curl</string>
+    <string name="menu_send4">Dumbbell Hammer Curl</string>
+    <string name="menu_send5">Prone Incline Curl</string>
+
+
+    <string name="acerca_de">Acerca de</string>
+
+    <string name="prot">La recomendación de proteína al día para adulto sano es de 0,83 gramos de proteína por cada kg de peso corporal al día</string>
+    <string name="peso">Ingresa tu peso</string>
+    <string name="kg">kg</string>
+    <string name="protdiaria">Tu proteína diaria es de:</string>
+    <string name="calcular">Calcular</string>
+    <string name="calcularprotein">calcularprotein</string>
+</resources>
